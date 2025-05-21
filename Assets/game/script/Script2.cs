@@ -23,6 +23,8 @@ public class Script2 : MonoBehaviour
     public void StopVisible()
     {
         _isVisible = false;
+        int m = 5;
+        int k = 4;
       
     }
     private void OnEnable()
